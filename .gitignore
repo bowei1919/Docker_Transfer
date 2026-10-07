@@ -1,0 +1,8 @@
+bin/
+obj/
+__pycache__/
+*.pyc
+*.user
+third_party/**/.git/
+third_party/
+.git2/
